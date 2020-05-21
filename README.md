@@ -4,9 +4,9 @@ Based on https://github.com/LeviHassel/.net-flicks with vulnerabilities added.
 
 ### Azure App Service:
 
-1.) Install the pre-reqs for terraform (if you have not already done so) as documented here: https://bitbucket.org/contrastsecurity/terraform-template/src/master/README.md
+1.) Install the pre-reqs for terraform 
 
-2.) Clone this repo locally using `git clone git@bitbucket.org:contrastsecurity/netficks-with-vulns-dotnet-core.git`.
+2.) Clone this repo locally using `git clone https://github.com/epakhomov/netflics-vulnerable.git`.
 
 3.) Drop a `contrast_security.yaml` file into your local repo (please note that the .Net Core version has a different URL).
 
